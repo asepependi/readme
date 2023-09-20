@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/asepependi/asepependi/snake.svg" alt="Snake animation" />
+<img src="https://github.com/asepependi/readme/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
